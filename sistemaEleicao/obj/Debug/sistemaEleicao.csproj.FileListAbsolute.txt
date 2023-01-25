@@ -1,0 +1,7 @@
+C:\Users\marco\Downloads\projetosPessoal\C#\eleicoes\sistemaEleicao\sistemaEleicao\bin\Debug\sistemaEleicao.exe.config
+C:\Users\marco\Downloads\projetosPessoal\C#\eleicoes\sistemaEleicao\sistemaEleicao\bin\Debug\sistemaEleicao.exe
+C:\Users\marco\Downloads\projetosPessoal\C#\eleicoes\sistemaEleicao\sistemaEleicao\bin\Debug\sistemaEleicao.pdb
+C:\Users\marco\Downloads\projetosPessoal\C#\eleicoes\sistemaEleicao\sistemaEleicao\obj\Debug\sistemaEleicao.csproj.AssemblyReference.cache
+C:\Users\marco\Downloads\projetosPessoal\C#\eleicoes\sistemaEleicao\sistemaEleicao\obj\Debug\sistemaEleicao.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\projetosPessoal\C#\eleicoes\sistemaEleicao\sistemaEleicao\obj\Debug\sistemaEleicao.exe
+C:\Users\marco\Downloads\projetosPessoal\C#\eleicoes\sistemaEleicao\sistemaEleicao\obj\Debug\sistemaEleicao.pdb
